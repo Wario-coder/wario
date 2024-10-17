@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+    overflow: hidden;
+    background: #0bc20b;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+    color: white;
+
+}
+li a:hover{background-color: #0c0b0b;
+
+
+}
